@@ -29,3 +29,10 @@ public string getText(object Control)
     데이터 블록 | 항목명 | 항목ID | 데이터 유형 | 자리수 | 소수점
     -----------|--------|-------|------------|--------|------
     DataBlock1 | 부서명 | DeptName | NVARCHAR | 100 | 0
+
+## TEST
+[!code-csharp[](index/Program.cs)]
+
+
+> [!NOTE]
+> This is a NOTE
