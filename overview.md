@@ -4,5 +4,6 @@ K-Studio 2.0 은 영림원 ERP에서 제공되는 모든 프로그램 화면을 
 
 ## K-Studio 2.0 설치
 
-K-Studio 2.0은 기본적인 ERP 설치를 진행한 경우 설치경로의 bin 폴더에 아래와 같이 실행 파일이 생성되게 되어있다.
-![](/path/to/DevTools.jpg)
+* K-Studio 2.0은 기본적인 ERP 설치를 진행한 경우 설치경로의 bin 폴더에 아래와 같이 실행 파일이 생성되게 되어있다.
+
+![](/path/to/DevTools.JPG)
