@@ -32,6 +32,7 @@ public string getText(object Control)
 
 ## TEST
 [!code-csharp[](index/Program.cs)]
+@[csharp:code_block](index/Program.cs)
 
 
 > [!NOTE]
